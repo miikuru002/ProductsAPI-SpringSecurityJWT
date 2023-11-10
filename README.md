@@ -17,6 +17,7 @@ Para poder ejecutar el proyecto es necesario tener instalado:
 - Model Mapper
 - SpringDoc
 - Spring Validation
+- Lombok
 
 ## Deficiones
 - **Bean**: Es un objeto que es instanciado, ensamblado y administrado por un contenedor de inversión de control (IoC) como Spring. Estos beans son creados con el fin de encapsular muchas instancias de objetos en un solo objeto que pueda ser administrado por el contenedor de IoC.
